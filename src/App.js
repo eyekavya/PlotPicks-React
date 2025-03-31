@@ -1,8 +1,10 @@
+import SignIn from "./pages/SignIn";
+
 function App() {
   return (
     <>
       <div>
-        <h1>Hello</h1>
+        <SignIn />
       </div>
     </>
   );
